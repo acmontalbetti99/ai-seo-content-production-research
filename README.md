@@ -1,0 +1,3 @@
+# AI-Powered SEO Content Production Research
+
+Initializing repository...
